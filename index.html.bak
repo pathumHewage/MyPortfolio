@@ -14,7 +14,7 @@
     <!--==================== CSS ====================-->
     <link rel="stylesheet" href="assets/css/styles.css">
 
-    <title>Welcome!&emsp;I'm Pasindu</title>
+    <title>Welcome!&emsp;I'm Pathum</title>
     <link rel = "icon" href = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" type = "image/gif">
     
 </head>
@@ -221,7 +221,7 @@ function myScript() {
 
                             <div class="skills__data">
                                 <div class="skills__titles">
-                                    <h3 class="skills__name">Java Servlet</h3>
+                                    <h3 class="skills__name">Java</h3>
                                     <div class="skills__number">40%</div>
                                 </div>
                                 <div class="skills__bar">
@@ -594,7 +594,7 @@ function myScript() {
                 <div class="swiper-wrapper"></div>
 				                    <!--======================== PORTFOLIO 1 =============-->
                     <div class="portfolio__content grid swiper-slide">
-                        <img src="assets/img/ticketmart.png" alt="" class="portfolio__img">
+                        <img src="assets/img/ticketmart.jpg" alt="" class="portfolio__img">
 
                         <div class="portfolio__data">
                             <h3 class="portfolio__title">Online Movie Reservation Platform - Ticket Mart</h3>
